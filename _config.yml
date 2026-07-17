@@ -1,17 +1,17 @@
 # ============================================================
 # STEP 1: Your Identity (required)
 # ============================================================
-name: "Richard Feynman"
-title: "Professor of Physics"
-institution: "California Institute of Technology"
-email: richard@university.edu
-photo: headshot.jpg  # place your photo in images/
+name: "Do-Yeon Kim"
+title: "Professor · Department of Pharmacology"
+institution: "School of Dentistry, Kyungpook National University"
+email: dykim82@knu.ac.kr
+photo: dykim.jpg
 
 # ============================================================
 # STEP 2: Your Links (optional -- delete any you don't use)
 # ============================================================
 links:
-  google_scholar: "https://scholar.google.com/citations?user=B7vSqZsAAAAJ"
+  google_scholar: "https://scholar.google.com/citations?hl=ko&user=YK00g9oAAAAJ&view_op=list_works&sortby=pubdate"
   github: "https://github.com/"
   researchgate: "https://www.researchgate.net/"
   orcid: ""
@@ -22,7 +22,7 @@ links:
 # ============================================================
 # STEP 3: Site Settings
 # ============================================================
-accent_color: "#1a7a6d"      # theme color for links and buttons
+accent_color: "#0e6b6b"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
 description: "Academic webpage of Dr. Richard Feynman"
 baseurl: ""
@@ -38,11 +38,8 @@ analytics:
 nav_pages:
   - name: about
   - name: publications
-  - name: talks
   - name: research
-  - name: software
   - name: team
-  - name: teaching
   - name: blogs
 
 # ============================================================
@@ -76,8 +73,8 @@ kramdown:
 plugins: ["jekyll/scholar", "jekyll-sitemap"]
 
 scholar:
-  last_name: Doe
-  first_name: [John]
+  last_name: Kim
+  first_name: [Do-Yeon, D.Y., DY]
   style: citesty
   locale: en
   source: /assets/
