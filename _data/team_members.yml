@@ -1,20 +1,21 @@
-# Current students and postdocs.
-# Each entry needs: name, photo, info
-# Optional: email, website, scholar, github, researchgate, cv
-# Photos go in images/ or images/team/
+# 연구원 (Researchers)
+- name: Sang Min Lee
+  info: Researcher
+- name: Hyeon Ji Kim
+  info: Researcher
 
-- name: George Zweig
-  photo: team/george-zweig.svg
-  info: PhD Student, Quark Model
+# 박사과정 (PhD Students)
+- name: Hyo-Jin Song
+  info: PhD Student
+- name: Yu Gyung Kim
+  info: PhD Student
+- name: Bo Kyung Joo
+  info: PhD Student
 
-- name: Albert Hibbs
-  photo: team/albert-hibbs.svg
-  info: PhD Student, Quantum Mechanics
-
-- name: Thomas Curtright
-  photo: team/thomas-curtright.svg
-  info: PhD Student, Quantum Field Theory
-
-- name: "This could be you!"
-  photo: rock.jpg
-  info: See openings for more info
+# 석사과정 (Master's Students)
+- name: Um Jung Kyung
+  info: Master's Student
+- name: Chae In Jung
+  info: Master's Student
+- name: Myung Sun Jeon
+  info: Master's Student
