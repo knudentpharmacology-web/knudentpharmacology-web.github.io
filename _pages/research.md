@@ -4,57 +4,48 @@ layout: gridlay
 sitemap: false
 permalink: /research/
 ---
-
 ## Research
-
 <div class="research-grid">
-
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/qed.svg" class="research-thumb" alt="Feynman diagram">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/rna-regulation.svg" class="research-thumb" alt="RNA-binding protein">
 <div class="research-body">
-<h4 class="research-title">Quantum Electrodynamics</h4>
-<p class="research-desc">Development of the path integral formulation of quantum mechanics and its application to quantum electrodynamics (QED). This work introduced Feynman diagrams as a powerful tool for calculating particle interactions, providing an intuitive visual representation of complex quantum processes.</p>
+<h4 class="research-title">Post-transcriptional Regulation</h4>
+<p class="research-desc">RNA-binding proteins determine which transcripts are translated, when, and how quickly they decay. We characterize hnRNP Q, hnRNP A1, SYNCRIP, and FUBP1 as regulators of IRES-mediated translation and mRNA turnover, linking them to circadian oscillation of clock genes, stress-induced p53 induction, and neuronal protein synthesis.</p>
 </div>
 </div>
-
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/superfluidity.svg" class="research-thumb" alt="Superfluid helium">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/salivary-gland.svg" class="research-thumb" alt="Salivary gland acinar cells">
 <div class="research-body">
-<h4 class="research-title">Superfluidity</h4>
-<p class="research-desc">Quantum mechanical explanation of the behavior of liquid helium near absolute zero. Using path integral methods, we developed a microscopic theory of the lambda transition and explained the energy spectrum of excitations in superfluid helium, including the roton minimum.</p>
+<h4 class="research-title">Salivary Gland &amp; Sjögren's Syndrome</h4>
+<p class="research-desc">We investigate the earliest molecular events in salivary gland dysfunction, before overt tissue destruction. Building on our identification of FoxO1 as a regulator of aquaporin 5, we study transcriptional and O-GlcNAc–dependent control of acinar differentiation, epithelial barrier integrity, and the inflammation–aging axis driving primary Sjögren's syndrome.</p>
 </div>
 </div>
-
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/partons.svg" class="research-thumb" alt="Parton model">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/neural-stem-cell.svg" class="research-thumb" alt="Neural stem cells">
 <div class="research-body">
-<h4 class="research-title">Parton Model</h4>
-<p class="research-desc">A model describing the internal structure of hadrons in terms of point-like constituents called partons. This framework proved essential for interpreting deep inelastic scattering experiments at SLAC and laid the groundwork for quantum chromodynamics (QCD).</p>
+<h4 class="research-title">Neural Stem Cells &amp; Brain Aging</h4>
+<p class="research-desc">Metabolic state and transcription factor networks govern neural stem cell self-renewal, differentiation, and decline with age. Current work centers on FoxO1 in neural stem cell fate and microglial redox control, and on how α-synuclein preformed fibrils reshape mitochondrial ROS, inflammation, and cell cycle progression in the brain.</p>
 </div>
 </div>
-
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/quantum-computing.svg" class="research-thumb" alt="Quantum circuit">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/glioblastoma.svg" class="research-thumb" alt="Glioblastoma cells">
 <div class="research-body">
-<h4 class="research-title">Quantum Computing</h4>
-<p class="research-desc">Pioneering proposals for using quantum mechanical systems to perform computation. We demonstrated that classical computers cannot efficiently simulate quantum physics, motivating the development of quantum computers that exploit superposition and entanglement.</p>
+<h4 class="research-title">Glioblastoma</h4>
+<p class="research-desc">We search for molecular dependencies that can be converted into therapeutic targets. Ongoing projects address SYNCRIP-driven ferroptosis resistance and metabolic activation via SIRT1 and HK2, CYBC1 in ROS and NF-κB signaling, and MAOB as a route to sensitize glioblastoma to temozolomide.</p>
 </div>
 </div>
-
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/nanotechnology.svg" class="research-thumb" alt="Atomic manipulation">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/oral-cancer.svg" class="research-thumb" alt="Oral squamous cell carcinoma">
 <div class="research-body">
-<h4 class="research-title">Nanotechnology</h4>
-<p class="research-desc">Exploration of the physical possibilities of manipulating matter at the atomic scale. The talk "There's Plenty of Room at the Bottom" envisioned machines that could arrange atoms one by one, anticipating modern nanotechnology and molecular manufacturing.</p>
+<h4 class="research-title">Oral &amp; Head and Neck Cancer</h4>
+<p class="research-desc">In oral squamous cell carcinoma and head and neck malignancies we study FoxO1-dependent tumor suppression and the mechanisms of immune evasion that limit the efficacy of checkpoint blockade, with the aim of defining molecular features that predict and improve therapeutic response.</p>
 </div>
 </div>
-
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/weak-interactions.svg" class="research-thumb" alt="Weak interaction diagram">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/oral-inflammation.svg" class="research-thumb" alt="Bacterial extracellular vesicles">
 <div class="research-body">
-<h4 class="research-title">Weak Interactions</h4>
-<p class="research-desc">Development of the V-A theory of the weak interaction with Murray Gell-Mann. This theory correctly predicted the structure of weak decays and was later incorporated into the electroweak unification by Weinberg, Salam, and Glashow.</p>
+<h4 class="research-title">Oral Inflammation &amp; Microbial Interface</h4>
+<p class="research-desc">Oral lichen planus is a chronic immune-mediated condition with unclear pathogenesis. We have implicated bacterial extracellular vesicles and stress-derived epinephrine as drivers of oxidative stress and epithelial damage, and ask how vesicle-derived nucleic acids induce genomic instability and epigenetic change in host cells.</p>
 </div>
 </div>
-
 </div>
