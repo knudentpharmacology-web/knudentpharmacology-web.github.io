@@ -2,6 +2,10 @@
 # Each entry needs: name, duration, info
 # Optional: photo, email
 
-**Tae Jun Kim** — Ph.D., 2026 ·
-**Min Kyu Kang** — M.S., 2020 · National Cancer Center / NewCancerCure Bio
-**Chae Eun Sung** — M.S., 2023 · Bioneer
+alumni:
+  - name: Tae Jun Kim
+    info: Ph.D., 2026 — 
+  - name: Min Kyu Kang
+    info: M.S., 2020 — National Cancer Center / NewCancerCure Bio
+  - name: Chae Eun Sung
+    info: M.S., 2023 — Bionia
