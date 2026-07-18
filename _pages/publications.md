@@ -5,10 +5,6 @@ sitemap: false
 permalink: /publications/
 ---
 
-# TEST LINE AAA
-
-If you can see this line, the layout is working.
+## Publications
 
 {% bibliography --query @article %}
-
-# TEST LINE BBB
