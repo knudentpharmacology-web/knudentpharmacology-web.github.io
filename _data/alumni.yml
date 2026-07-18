@@ -1,11 +1,12 @@
 # Former lab members.
 # Each entry needs: name, duration, info
 # Optional: photo, email
-
-alumni:
-  - name: Tae Jun Kim
-    info: Ph.D., 2026 — 
-  - name: Min Kyu Kang
-    info: M.S., 2020 — National Cancer Center / NewCancerCure Bio
-  - name: Chae Eun Sung
-    info: M.S., 2023 — Bionia
+- name: Tae Jun Kim
+  duration: -2026
+  info: Ph.D., 2026
+- name: Min Kyu Kang
+  duration: -2020
+  info: M.S., 2020. Now at National Cancer Center / NewCancerCure Bio
+- name: Chae Eun Sung
+  duration: -2023
+  info: M.S., 2023. Now at Bioneer
