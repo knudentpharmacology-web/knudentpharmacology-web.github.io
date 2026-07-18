@@ -122,7 +122,7 @@
 .home-header {
   max-width: var(--container-max);
   margin: 0 auto;
-  padding: var(--space-12) var(--container-padding) var(--space-6);
+  padding: var(--space-10) var(--container-padding) 0;
   text-align: center;
 }
 
@@ -134,26 +134,22 @@
   line-height: 1.15;
   margin: 0 0 var(--space-2);
   color: var(--text-primary);
-  &::after {
-    display: none;
-  }
-  @media (max-width: 768px) {
-    font-size: 2rem;
-  }
+  &::after { display: none; }
+  @media (max-width: 768px) { font-size: 2rem; }
 }
 
 .home-header-sub {
   font-size: 1.0625rem;
   color: var(--text-muted);
   font-style: italic;
-  margin: 0 0 var(--space-8);
+  margin: 0 0 var(--space-6);
 }
 
 .home-header-banner {
   width: 100%;
   height: auto;
   display: block;
-  border-radius: var(--radius-xl);
-  border: 1px solid var(--border-color);
-  box-shadow: var(--shadow-md);
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
 }
