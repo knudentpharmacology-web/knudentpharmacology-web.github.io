@@ -1,18 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-
   {% include head.html %}
-
   <body>
-
+    {% if page.permalink == "/" %}{% include home-header.html %}{% endif %}
     {% include header.html %}
-
     <main class="site-container">
       {{ content }}
     </main>
-
     {% include footer.html %}
-
   </body>
-
 </html>
