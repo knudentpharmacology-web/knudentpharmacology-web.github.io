@@ -2,7 +2,7 @@
 title: "People"
 layout: default
 sitemap: false
-permalink: /people/
+permalink: /people
 ---
 
 ## People
