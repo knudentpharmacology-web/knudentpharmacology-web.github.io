@@ -1,11 +1,11 @@
 ---
 title: "People"
-layout: default
+layout: gridlay
 sitemap: false
 permalink: /people/
 ---
 
-## Team
+## People
 
 ## PI
 
