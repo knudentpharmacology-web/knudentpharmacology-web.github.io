@@ -24,7 +24,7 @@ links:
 # ============================================================
 accent_color: "#0e6b6b"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
-description: "Academic webpage of Dr. Richard Feynman"
+description: "Kim Lab · Department of Pharmacology, School of Dentistry, Kyungpook National University"
 baseurl: ""
 url: ""
 
@@ -77,7 +77,7 @@ scholar:
   first_name: [D. Y., Do-Yeon, D.-Y.]
   style: citesty
   locale: en
-  source: /assets/
+  source: ./assets
   bibliography: ref.bib
   bibliography_template: bibtemplate
   sort_by: year, month
