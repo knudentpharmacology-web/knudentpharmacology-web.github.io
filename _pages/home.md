@@ -23,8 +23,8 @@ molecular dependencies that a tumor cannot do without, and that a therapy might
 therefore exploit.
 
 Our approach combines cell and animal models with transcriptomic and multi-omics
-analysis, and we work closely with clinical colleagues in the School of
-Dentistry.
+analysis, and we work closely with clinical colleagues in the Kyungpook National 
+University Dental Hospital.
 
 <div class="chip-container" markdown="0">
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">RNA-Binding Proteins</a>
