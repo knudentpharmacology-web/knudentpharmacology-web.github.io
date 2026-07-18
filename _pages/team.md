@@ -1,6 +1,6 @@
 ---
 title: "People"
-layout: gridlay
+layout: default
 sitemap: false
 permalink: /people/
 ---
