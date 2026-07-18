@@ -22,7 +22,7 @@ links:
 # ============================================================
 # STEP 3: Site Settings
 # ============================================================
-accent_color: "#0e6b6b"      # theme color for links and buttons
+accent_color: "#1d4ed8"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
 description: "Kim Lab · Department of Pharmacology, School of Dentistry, Kyungpook National University"
 baseurl: ""
