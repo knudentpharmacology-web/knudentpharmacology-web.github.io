@@ -3,27 +3,9 @@
 # Delete this file if you only need the basics.
 
 
-**Do-Yeon Kim, Ph.D.**
-Professor, Department of Pharmacology
-School of Dentistry, Kyungpook National University
-[dykim82@knu.ac.kr](mailto:dykim82@knu.ac.kr)
-
-**Education & Training**
-
-- Post-Doctoral Fellow, Neural Stem Cell & Brain Aging, Weill Cornell Medical College, New York (2013–2015)
-- Post-Doctoral Fellow, Molecular Neurophysiology, POSTECH (2012–2013)
-- Ph.D., Molecular Neurophysiology, POSTECH (2005–2012)
-- B.S., Biotechnology / Computer Science & Industrial System Engineering, Yonsei University (2001–2005)
-
-**Grants**
-
-- National Research Foundation of Korea (NRF), 2026–2030
-- Basic Research Laboratory (BRL), NRF, 2025–2028
-- National Research Foundation of Korea (NRF), 2022–2026
-- National Research Foundation of Korea (NRF), 2019–2022
-- National Research Foundation of Korea (NRF), 2016–2019
-
-**Honors**
-
-- Best Research Award, Korean Society for Molecular and Cellular Biology, 2009
-- Graduated with Honors, College of Engineering, Yonsei University, 2005
+# Education entries shown in the PI card on the People page.
+- education:
+    - "Postdoctoral Fellow, Neural Stem Cell & Brain Aging, Weill Cornell Medical College, New York (2013–2015)"
+    - "Postdoctoral Fellow, Molecular Neurophysiology, POSTECH (2012–2013)"
+    - "Ph.D., Molecular Neurophysiology, POSTECH (2005–2012)"
+    - "B.S., Biotechnology / Computer Science & Industrial System Engineering, Yonsei University (2001–2005)"
