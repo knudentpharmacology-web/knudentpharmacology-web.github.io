@@ -1,8 +1,8 @@
 ---
-title: "Team"
+title: "People"
 layout: gridlay
 sitemap: false
-permalink: /team/
+permalink: /people/
 ---
 
 ## Team
