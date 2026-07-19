@@ -1,7 +1,7 @@
 # 연구원 (Researchers)
-- name: Sang Min Lee
-  info: Researcher
 - name: Hyeon Ji Kim
+  info: Researcher
+- name: Sang Min Lee
   info: Researcher
 
 # 박사과정 (PhD Students)
@@ -13,7 +13,7 @@
   info: PhD Student
 
 # 석사과정 (Master's Students)
-- name: Um Jung Kyung
+- name: Jung Kyung Um 
   info: Master's Student
 - name: Chae In Jung
   info: Master's Student
