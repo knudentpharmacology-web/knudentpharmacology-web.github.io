@@ -10,7 +10,7 @@ permalink: /news/
 <div class="section-card" markdown="0">
 <div class="news-list">
 {% for item in site.data.news %}
-<div class="news-entry">
+<div class="news-entry{% if item.photo %} has-photo{% endif %}">
   {% if item.photo %}<img src="{{ site.url }}{{ site.baseurl }}/images/{{ item.photo }}" class="news-photo" alt="" loading="lazy">{% endif %}
   <div class="news-body">
     <div class="news-meta">
