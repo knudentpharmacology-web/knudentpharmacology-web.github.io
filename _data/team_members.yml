@@ -1,19 +1,24 @@
 # 연구원 (Researchers)
 - name: Hyeon Ji Kim
-  info: Researcher
+  photo: team/hyeonji-kim.jpg
+  info: Postdoctoral Researcher 
 - name: Sang Min Lee
-  info: Researcher
+  photo: team/sangmin-lee.jpg
+  info: Postdoctoral Researcher
 - name: Bo Kyung Joo
   info: Research Associate (MS)
 
 # 박사과정 (PhD Students)
 - name: Hyo-Jin Song
+  photo: team/hyojin-song.jpg
   info: PhD Student
 - name: Yu Gyung Kim
+  photo: team/yugyung-kim.jpg
   info: PhD Student
 
 # 석사과정 (Master's Students)
 - name: Jeong Gyeong Eom
+  photo: team/jungkyung-um.jpg
   info: Master's Student
 - name: Chae In Jeong
   photo: team/chaein-jung.jpg
