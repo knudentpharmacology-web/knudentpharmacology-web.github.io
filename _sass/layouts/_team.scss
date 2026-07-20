@@ -85,11 +85,12 @@
     text-align: center;
   }
 
-  .pi-photo {
-    width: 160px;
-    height: 160px;
+ .pi-photo {
+    width: 200px;
+    height: 260px;
     border-radius: var(--radius-xl);
     object-fit: cover;
+    object-position: center 20%;
     border: 2px solid var(--bg-primary);
     box-shadow:
       0 0 0 1px var(--border-color),
