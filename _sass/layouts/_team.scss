@@ -4,8 +4,15 @@
 
 .team-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-  gap: var(--space-6);
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-8);
+
+  @media (max-width: 900px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  @media (max-width: 560px) {
+    grid-template-columns: 1fr;
+  }
 }
 
 .team-card {
@@ -26,9 +33,10 @@
   }
 
   .team-photo {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    max-width: 100%;
+    border-radius: var(--radius-lg);
     object-fit: cover;
     margin-bottom: var(--space-4);
     border: 2px solid var(--bg-primary);
