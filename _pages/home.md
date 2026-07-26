@@ -7,7 +7,7 @@ permalink: /
 
 ## About the Lab
 
-Welcome to the (랩이름)
+Welcome to the Kim's Lab!
 
 We study how gene expression is controlled — across transcription, translation,
 and protein modification — and how that control breaks down in aging, chronic
