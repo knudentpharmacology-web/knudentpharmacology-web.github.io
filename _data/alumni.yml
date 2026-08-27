@@ -1,15 +1,15 @@
 # Former lab members.
 # Each entry needs: name, duration, info
 # Optional: photo, email
-- name: Tae Jun Kim
-  duration: -2026
-  info: Ph.D., 2026. Now at Korea Institute of Radiological and Medical Sciences
 - name: Min Kyu Kang
   duration: -2020
   info: M.S., 2020. Now at National Cancer Center / NewCancerCure Bio
 - name: Chae Eun Sung
   duration: -2023
   info: M.S., 2023. Now at Bioneer
+- name: Tae Jun Kim
+  duration: -2025
+  info: Ph.D., 2026. Now at Korea Institute of Radiological and Medical Sciences
 - name: Bo Kyung Joo
   duration: -2026
   info: M.S., 2026. Now at
